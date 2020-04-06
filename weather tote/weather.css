@@ -1,0 +1,20 @@
+body {
+    background-color: black;
+}
+h1 {
+    background-color: yellowgreen;
+    border: 1 px solid black;
+    margin: auto;
+    padding: 10px;
+    font-size: 1em;
+}
+tr, td, th {
+    border: 1 px solid black;
+    background-color: cornsilk;
+    font-size: 1em;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    font-size: 1em;
+    width: 50%;
+}
